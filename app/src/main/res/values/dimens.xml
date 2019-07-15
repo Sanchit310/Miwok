@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="layout_height">90sp</dimen>
+    <dimen name="padding_bottom">10sp</dimen>
+    <dimen name="padding_left">15sp</dimen>
+    <dimen name="padding_right">50sp</dimen>
+    <dimen name="padding_top">10sp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>
